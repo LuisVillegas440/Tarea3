@@ -27,3 +27,5 @@ console.log(
 
 /*  console.log('El primer caracter es:',numeros[0].charAt(0) );
  */
+const nombree= read('Escribir nombre');
+console.log(nombree[3]);
